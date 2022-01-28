@@ -2,13 +2,12 @@
 
 Plugin for Raycast to search [Google Books](https://books.google.co.uk/).
 
+
+https://user-images.githubusercontent.com/43654026/151473182-dcf6dadf-db71-4894-a02b-5974325b821f.mov
+
 ![Screenshot 2022-01-21 at 12 55 41](https://user-images.githubusercontent.com/43654026/151473157-201f4082-4641-4d4a-b052-84a27fa3f7ba.png)
 
 ![Screenshot 2022-01-21 at 12 55 56](https://user-images.githubusercontent.com/43654026/151473170-dc2cc953-cf19-41ed-a450-2dba76d1308b.png)
-
-
-
-https://user-images.githubusercontent.com/43654026/151473182-dcf6dadf-db71-4894-a02b-5974325b821f.mov
 
 
 
